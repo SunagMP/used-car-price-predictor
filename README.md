@@ -56,5 +56,7 @@ Technology Stack
 - FastAPI
 - Render (for deployment)
 
-Repository Structure
+Author
 --------------------
+Developed by Sunag M P  
+Feel free to connect and contribute!
